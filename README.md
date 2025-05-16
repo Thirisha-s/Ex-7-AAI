@@ -20,7 +20,7 @@ Step 5: Construct the main program to read the paragraph  and perform text summa
       - Generate and print the text summary using the  Text Summarization function<br>
       
 ## Program:
-```
+```python
 !pip install nltk
 import nltk
 from nltk.corpus import stopwords
